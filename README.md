@@ -1,6 +1,6 @@
 # JavaScript Algorithms and Data Structures
 
-<img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.jpg">
+<img widht="300" src="https://www.henleyherald.com/wp-content/uploads/2019/08/66734754_10156176643630988_883564894085971968_o.jpg">
 
 # My Profile 
 https://www.freecodecamp.org/espanol/marcosApodaca
