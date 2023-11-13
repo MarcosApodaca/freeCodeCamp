@@ -5,7 +5,7 @@
 # My Profile 
 https://www.freecodecamp.org/espanol/marcosApodaca
 
-# Program
+# Table of Contents
 <ul>
 <li>Basic JavaScript</li>
 <li>ES6</li>
