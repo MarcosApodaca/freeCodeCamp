@@ -15,5 +15,5 @@ https://www.freecodecamp.org/marcosApodaca
 <li>Basic Algorithm Scripting</li>
 <li>Object Oriented Programming</li>
 <li>Functional Programming</li>
-<li>Intermediate Algorithm Scripting</li>
+<li>Intermediate Algorithm Scripting</li >
 </ul>
